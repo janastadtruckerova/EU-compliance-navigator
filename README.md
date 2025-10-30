@@ -1,57 +1,23 @@
-# EU-compliance-navigator
-# 🧭 EU Compliance Navigator: Analytický Koncepčný Návrh
+# EU Legislative Compliance & KPI Assistant (Koncepčný Návrh s pomocu Google AI studio)
 
-**Váš LinkedIn/Web:https://www.linkedin.com/in/jana-stadtruckerov%C3%A1-7801779b/
+ 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c0632751-cf7a-42cd-94fc-f0d7ee451236" />
 
----
 
-### **1. 🎯 Koncepčný Zámer (Business Rationale)**
+## Úvod
 
-Tento projekt je reakciou na rastúcu zložitosť EÚ regulácií v komerčnom sektore. Cieľom je navrhnúť **AI-asistovaný nástroj**, ktorý minimalizuje ľudskú chybu a urýchľuje preklad legislatívnych požiadaviek do **merateľných, akčných biznis krokov**.
+Tento projekt predstavuje koncepčný návrh inteligentného asistenta pre riadenie súladu s EÚ legislatívou a meranie výkonnosti (KPI). Moja predošlá skúsenosť s EÚ programami a legislatívou ma priamo priviedla k tomuto projektu, pretože som si uvedomila výzvy a inefektívnosti spojené s manuálnym riadením regulačného súladu.
 
-Projekt demonštruje schopnosť rýchleho prototypovania analytických riešení s využitím moderných AI nástrojov (Google AI Studio / Vibe Coding) na riešenie seniorských problémov.
+Cieľom je vytvoriť modulárnu aplikáciu, ktorá automatizuje analýzu medzier (Gap Analysis), navrhuje merateľné Kľúčové Ukazovatele Výkonnosti (KPI) a **inovuje v automatickom generovaní návrhov úprav interných dokumentov (smerníc, procesných manuálov) klienta priamo na základe identifikovaných legislatívnych požiadaviek.** Využitím pokročilých Large Language Models (LLM) a Natural Language Generation (NLG) sa systém snaží minimalizovať manuálnu prácu a zabezpečiť rýchlejší a presnejší súlad.
 
----
+Projekt je zameraný na zvýšenie efektivity, zníženie rizika nesúladu a podporu dátovo-riadeného strategického rozhodovania v organizáciách.
 
-### **2. 💻 Analytická Štruktúra Riešenia**
+## Kompletný Koncepčný Návrh
 
-Navigátor je koncepčne štruktúrovaný na troch kľúčových úrovniach, ktoré zabezpečujú prepojenie legislatívy s firemnou praxou:
+Detailná architektúra, špecifikácie modulov a podrobné prínosy riešenia sú popísané v kompletnom koncepčnom návrhu:
 
-#### **A. Vstupná Analytická Brána (Input Analysis)**
-* **Logika:** Nástroj extrahuje a analyzuje kľúčové povinnosti a definície zo zložitých legislatívnych textov (napr. EÚ smernice).
-
-#### **B. Prekladacia a Akčná Vrstva (Action Mapping)**
-* **Prínos:** Automatický preklad analyzovaných povinností do **konkrétneho zoznamu akčných krokov** pre biznis a IT oddelenia.
-
-#### **C. Metrická a Kontrolná Vrstva (Compliance & Metrics)**
-* **Metriky:** Pre každú akciu je navrhnutý **Merateľný KPI** (Key Performance Indicator) na kvantifikáciu a sledovanie súladu (Compliance).
-* **Štruktúra Dátovej Validácie:** Koncepčný návrh zahŕňa logiku pre zabezpečenie **audit-proof dátovej validácie** a integrity.
+*   [**EU Legislative Compliance & KPI Assistant - Koncepčný Návrh.pdf**](EU_Compliance_KPI_Assistant_Concept.pdf)
+    *(Nahraď `EU_Compliance_KPI_Assistant_Concept.pdf` presným názvom tvojho PDF súboru)*
 
 ---
 
-### **3. 📈 Kľúčové Výstupy a Zručnosti**
-
-Tento koncepčný návrh potvrdzuje:
-
-* **Regulačná Expertíza:** Schopnosť štruktúrovaného prekladu regulácií do riešení.
-* **Analytická Disciplína:** Zameranie na **merateľnosť (KPI)** a **kvalitu dát**.
-* **Creator Mindset:** Efektívne využitie AI pre rýchly koncepčný dizajn.
-
----
-
-### **5. 💡 Kľúčový Prompt (Zadanie pre Google AI Studio)**
-
-Pre vygenerovanie analytickej štruktúry bola použitá nasledujúca logická požiadavka. Prompt bol **rekonštruovaný** tak, aby presne odrážal definíciu **biznis logiky a metrických požiadaviek**, ktoré viedli k tomuto koncepčnému návrhu:
-
-Navrhni detailnú analytickú štruktúru pre klientsku aplikáciu, ktorá má za cieľ automatizovať regulačný súlad (EU Compliance).
-Štruktúra aplikácie musí obsahovať tri kľúčové biznis sekcie a špecifikovať ich logické funkcie:
-
-Vstup (Analýza legislatívy)
-Proces (Mapovanie na akcie)
-Výstup (Meranie súladu)
-
-Pre každú sekciu mi vygeneruj:
-Analytické požiadavky na dáta a procesy (napr. na dátovú integritu, na metriky).
-Logický výstup pre klienta (napr. Zoznam 5 akčných krokov).
-
-Zameraj sa na to, ako aplikácia zabezpečí, že výstupy budú audit-proof a merateľné pomocou KPI.
