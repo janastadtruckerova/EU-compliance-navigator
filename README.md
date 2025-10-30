@@ -16,8 +16,9 @@ Projekt je zameraný na zvýšenie efektivity, zníženie rizika nesúladu a pod
 
 Detailná architektúra, špecifikácie modulov a podrobné prínosy riešenia sú popísané v kompletnom koncepčnom návrhu:
 
-*   [**EU Legislative Compliance & KPI Assistant - Koncepčný Návrh.pdf**](EU_Compliance_KPI_Assistant_Concept.pdf)
-    *(Nahraď `EU_Compliance_KPI_Assistant_Concept.pdf` presným názvom tvojho PDF súboru)*
+EU legislative_complaince_navigator.pdf
+*   
+    
 
 ---
 
