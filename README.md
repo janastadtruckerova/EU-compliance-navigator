@@ -16,7 +16,7 @@ Projekt je zameraný na zvýšenie efektivity, zníženie rizika nesúladu a pod
 
 Detailná architektúra, špecifikácie modulov a podrobné prínosy riešenia sú popísané v kompletnom koncepčnom návrhu:
 
-EU legislative_complaince_navigator.pdf
+concept.md
 *   
     
 
